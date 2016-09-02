@@ -1,0 +1,8 @@
+c:\users\vasab\documents\visual studio 2013\Projects\ReplacerCSV\ReplacerCSV\bin\Debug\ReplacerCSV.exe.config
+c:\users\vasab\documents\visual studio 2013\Projects\ReplacerCSV\ReplacerCSV\bin\Debug\ReplacerCSV.exe
+c:\users\vasab\documents\visual studio 2013\Projects\ReplacerCSV\ReplacerCSV\bin\Debug\ReplacerCSV.pdb
+c:\users\vasab\documents\visual studio 2013\Projects\ReplacerCSV\ReplacerCSV\obj\Debug\ReplacerCSV.csprojResolveAssemblyReference.cache
+c:\users\vasab\documents\visual studio 2013\Projects\ReplacerCSV\ReplacerCSV\obj\Debug\ReplacerCSV.exe
+c:\users\vasab\documents\visual studio 2013\Projects\ReplacerCSV\ReplacerCSV\obj\Debug\ReplacerCSV.pdb
+C:\Users\vasab\Documents\Visual Studio 2013\Projects\ReplacerCSV\ReplacerCSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vasab\Documents\Visual Studio 2013\Projects\ReplacerCSV\ReplacerCSV\bin\Debug\Newtonsoft.Json.xml
